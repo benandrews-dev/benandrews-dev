@@ -1,8 +1,6 @@
-# Links
-* [LinkedIn](https://www.linkedin.com/in/benandrews-dev/)
-* [LinkTree](https://linktr.ee/ben.andrews)
-
 # My Life as a Data Analytics Student
+
+I'm currently taking courses at the University of Brighton. 
 
 ## Current Courses (Fall 2026)
 * CD705 - Statistical Data Analysis with R
@@ -14,6 +12,14 @@
 * CD715 - Data Analysis with SAS
 
 ## Industrial Placement (2027-2028)
+* TBD
+
+# Research Links
+* [Notion Database](https://swerdna.notion.site/research-links?v=a35a60b7eda283ef8bb50853ca28ad63&source=copy_link)
+
+# Personal Links
+* [LinkedIn](https://www.linkedin.com/in/benandrews-dev/)
+* [Photography Portfolio](https://twostepsahead.smugmug.com/Portfolios/n-547nvW/2020-12-25-Portfolio)
 
 
 <!--
