@@ -3,13 +3,24 @@
 I'm currently taking courses at the University of Brighton. 
 
 ## Current Courses (Fall 2026)
-* CD705 - Statistical Data Analysis with R
-* CD716 - Data Analytics for Business Decision-Making
-* CD704 - Machine Learning
+<table>
+<tr><td>CD705 - Statistical Data Analysis with R<td><a href=https://github.com/benandrews-dev/CD705-R-codespace>GitHub</a>
+<tr><td>CD716 - Data Analytics for Business Decision-Making <td>COMING SOON!
+<tr><td>CD704 - Machine Learning <td><a href=https://github.com/benandrews-dev/CD704-ML>GitHub</a>
+</table>
 
 ## Upcoming Courses (Spring 2027)
-* CD707 - Statistical Learning
-* CD715 - Data Analysis with SAS
+<table>
+<tr><td>CD707 - Statistical Learning<td>COMING SOON!
+<tr><td>CD715 - Data Analysis with SAS<td>COMING SOON!
+</table>
+
+## Research and Side Projects
+<table>
+<tr><td>Prescribing Trends in Hormone Replacement Therapy<td>COMING SOON!
+<tr><td>Exploratory Data Analysis: Divvy Bikeshare<td>COMING SOON!
+<tr><td>sklearn Toy Datasets<td><a href=https://github.com/benandrews-dev/CD704-ML/tree/main/sklearn_toy_datasets>GitHub</a>
+</table>
 
 ## Industrial Placement (2027-2028)
 * TBD
